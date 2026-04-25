@@ -1,0 +1,29 @@
+{
+    "name": "mokesano/umparanwp",
+    "description": "Tema WordPress portal berita terinspirasi kumparan.com — modern, cepat, dan kaya fitur.",
+    "type": "wordpress-theme",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Wizdam Archon",
+            "homepage": "https://github.com/arhcoun",
+            "role": "Developer"
+        },
+        {
+            "name": "Rochmady (mokesano)",
+            "homepage": "https://github.com/mokesano",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "^1.0 || ^2.0"
+    },
+    "support": {
+        "issues": "https://github.com/mokesano/umparanwp/issues",
+        "source": "https://github.com/mokesano/umparanwp"
+    },
+    "extra": {
+        "installer-name": "umparanwp"
+    }
+}
